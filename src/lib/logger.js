@@ -3,7 +3,7 @@ import {createLogger, format, transports} from "winston"
 const logger = createLogger({
   level: "debug",
   transports: [
-    new (transports.Console)({
+    new transports.Console({
       format: format.combine(format.splat(), format.cli()),
     }),
     // new (winston.transports.File)({
