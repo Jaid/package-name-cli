@@ -36,5 +36,6 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "package-name-cli",
-  "description": "CLI that prints the name from the working directory's package.json."
+  "description": "CLI that prints the name from the working directory's package.json.",
+  "funding": "https://github.com/sponsors/jaid"
 }
