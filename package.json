@@ -42,5 +42,16 @@
     "url": "https://github.com/jaid/package-name-cli"
   },
   "homepage": "https://github.com/Jaid/package-name-cli",
-  "keywords": []
+  "keywords": [
+    "cli",
+    "node",
+    "node-js",
+    "nodejs",
+    "npm",
+    "package",
+    "package-json",
+    "pkg",
+    "util",
+    "utility"
+  ]
 }
